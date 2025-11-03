@@ -47,21 +47,21 @@ class Email extends BaseConfig
      *
      * @var string
      */
-    public $SMTPHost = 'smtp-mail.outlook.com';
+    public $SMTPHost = 'smtp-.com';
 
     /**
      * SMTP Username
      *
      * @var string
      */
-    public $SMTPUser = 'info@ampraish.co.uk';
+    public $SMTPUser = 'info@.co.uk';
 
     /**
      * SMTP Password
      *
      * @var string
      */
-    public $SMTPPass = 'Mulund&80';
+    public $SMTPPass = '&80';
 
 	/**
 	 * SMTP Port
