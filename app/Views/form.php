@@ -1,2 +1,0 @@
- <?= $this->renderSection('content') ?>
-        

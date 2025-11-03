@@ -1,9 +1,0 @@
-{
-    "require": {
-        "hermawan/codeigniter4-datatables": "^0.5.0",
-        "phpoffice/phpspreadsheet": "^1.18",
-        "jlevers/selling-partner-api": "^5.8",
-        "smalot/pdfparser": "^1.1",
-        "aws/aws-sdk-php": "*"
-    }
-}
